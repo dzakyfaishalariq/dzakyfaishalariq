@@ -6,6 +6,8 @@
   a. 📞dzakyfaishalariq@gmail.com
   b. 📞089634104626
 - 📖 I live in Indonesia, precisely on the island of Sumatra, Bengkulu city, Muarabangka Huluh sub-district, Bentiring teacher housing
+- Other sources about me:
+  [website](https://dzaky-islam.blogspot.com/)
 
 # Displaying my achievements from a github perspective
 
