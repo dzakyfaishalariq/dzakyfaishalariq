@@ -1,5 +1,5 @@
-# Dzaky Faishalariq github user identity :
-- 👋 Hi, I’m @dzakyfaishalariq
+# Hi 👋 I am Dzaky faishalariq
+
 - 👀 I am interested in programming, computer science, data science,and web development
 - 🌱 currently i'm studying at bengkulu university college
 - 📫 How to reach me :
