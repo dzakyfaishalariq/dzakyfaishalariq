@@ -7,4 +7,4 @@
 - 📖 I live in Indonesia, precisely on the island of Sumatra, Bengkulu city, Muarabangka Huluh sub-district, Bentiring teacher housing
 <hr>
 <!--- menampilkan pencapaian->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dzakyfaishalariq&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dzakyfaishalariq&theme=radical)
