@@ -6,3 +6,5 @@
       b. 📞089634104626
 - 📖 I live in Indonesia, precisely on the island of Sumatra, Bengkulu city, Muarabangka Huluh sub-district, Bentiring teacher housing
 <hr>
+<!--- menampilkan pencapaian->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
