@@ -12,4 +12,7 @@
 
 # showcase my coding achievements in terms of multiple programming languages
 
+-first part
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzakyfaishalariq&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-The second part
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzakyfaishalariq&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
