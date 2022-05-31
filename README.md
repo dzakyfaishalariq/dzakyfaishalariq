@@ -23,8 +23,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzakyfaishalariq&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
-# The certificate that I got while I was a student
+# Languages I'm interested in programming
+<code></code>
 
+# The certificate that I got while I was a student
+<code><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="java" width="40" height="40"/></code>
 - first certificate
   ![WhatsApp Image 2022-05-30 at 19 39 41](https://user-images.githubusercontent.com/84628553/170994805-d6bbad30-4264-42bb-add0-20e8cbe533de.jpeg)
 - second certificate
