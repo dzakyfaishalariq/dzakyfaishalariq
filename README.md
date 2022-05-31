@@ -26,6 +26,10 @@
 # Languages I'm interested in programming
 
 <code><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="java" width="40" height="40"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="java" width="40" height="40"/><code>
+<code><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/><code>
+<code><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="java" width="40" height="40"/><code>
+<code><img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="java" width="40" height="40"/><code>
 
 # The certificate that I got while I was a student
 
