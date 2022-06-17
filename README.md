@@ -1,6 +1,7 @@
 # Hi 👋 I am Dzaky faishalariq
 
 - 👀 I am interested in programming, computer science, data science,and web development
+- NPM : G1A020003
 - 🌱 currently i'm studying at bengkulu university college
 - 📫 How to reach me :
   a. 📞dzakyfaishalariq@gmail.com
